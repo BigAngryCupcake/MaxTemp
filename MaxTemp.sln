@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1145
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxTemp", "MaxTemp\MaxTemp.csproj", "{B45271A9-5D2D-48EF-9A99-BF38062C3AB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxTemp", "MaxTemp.csproj", "{B45271A9-5D2D-48EF-9A99-BF38062C3AB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5EF99DA5-F2DC-4B18-BE23-1770606CA5A2}
+		SolutionGuid = {5C7F3DE3-C2BE-496D-A270-93CD78B9D618}
 	EndGlobalSection
 EndGlobal
